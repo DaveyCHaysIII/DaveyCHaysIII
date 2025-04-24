@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Hi, I'm Davey, I'm a systems programmer and C/C++ developer/software engineer out at Atlas School of Tulsa. I specialize in low level development and systems development for linux, and I also have experience in web and OOP. When it comes to programming, I live by the motto: "I just wanna make cool stuff"! I'm both a working professional in the Aerospace field and a Veteran of the USAF. In my free time I perform as part of several improv troupes, I cook, and I play games.
+
+- 🔭 I’m currently working on MEGADRIVE, our bundled game launcher with over 100\* games!
+- 🌱 I’m currently learning the finer points of C++ and project development, and I'm learning AGILE/LEAN principles at work and on my own.
+- 💬 Ask me about memory, how a program becomes a process, how ELF files are laid out, or about horror movies!
+- 📫 How to reach me: https://www.linkedin.com/in/daveyhaysiii/
+- 😄 Pronouns: any/all (they/them, he/him, she/her, whatever you're comfortable with!)
+- ⚡ Fun fact: I've bought more concert tickets this year than the entire rest of my life
+
 <!--
 **DaveyCHaysIII/DaveyCHaysIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
