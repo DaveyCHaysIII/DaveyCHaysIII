@@ -1,4 +1,4 @@
-## Hi there 👋
+## Software Engineer
 
 Hi, I'm Davey, I'm a systems programmer and C/C++ developer/software engineer out at Atlas School of Tulsa. I specialize in low level development and systems development for linux, and I also have experience in web and OOP. When it comes to programming, I live by the motto: "I just wanna make cool stuff"! I'm both a working professional in the Aerospace field and a Veteran of the USAF. In my free time I perform as part of several improv troupes, I cook, and I play games.
 
